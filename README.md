@@ -23,7 +23,7 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/telegram-image-classifier.git
+   git clone https://github.com/VishnuPrasanth-A/Telegram-Image-classifier.git
    cd telegram-image-classifier
    ```
 
