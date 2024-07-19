@@ -20,6 +20,8 @@ This project implements a Convolutional Neural Network (CNN) for image classific
 
 Follow these steps to set up the project on your local machine:
 
+**Your System must Run the python version -- 3.9.6**
+
 1. **Clone the Repository:**
 
    ```bash
