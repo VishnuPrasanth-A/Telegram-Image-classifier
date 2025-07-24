@@ -1,4 +1,14 @@
 # Telegram-Image-classifier
+
+
+![Python](https://img.shields.io/badge/Python-3.9.6-blue.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
+![CIFAR-10](https://img.shields.io/badge/Dataset-CIFAR--10-ff69b4.svg)
+![TelegramBot](https://img.shields.io/badge/Telegram-Bot-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey)
+
 This project implements a Convolutional Neural Network (CNN) for image classification using TensorFlow. It integrates with Telegram to classify images sent by users into predefined categories using the CIFAR-10 dataset. The CNN model is trained on the CIFAR-10 dataset, which consists of 60,000 32x32 color images in 10 classes.
 Creating a detailed README.md file is crucial for your project on GitHub. It helps users understand what your project does, how to set it up, and how to use it effectively. Below is a step-by-step procedure for writing a comprehensive README.md for your image classification project using CNN with TensorFlow and Telegram integration.
 
